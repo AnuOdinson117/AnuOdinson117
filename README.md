@@ -10,11 +10,7 @@ Simple dude, very interested in technology! Eager to learn the different kinds o
 
   
 ### Connect with Me
-- X (Twitter) - https://x.com/hammydoestweet8?t=qiVlo3v_CsBCl-EUGVRnjg&s=09
-- LinkedIn - https://www.linkedin.com/in/anurag-bhattacharjee-65a487275/
-- Instagram -
-- Discord -
-- Mail - bhattacharjeeanurag3@gmail.com
+[X (Twitter)](https://x.com/hammydoestweet8?t=qiVlo3v_CsBCl-EUGVRnjg&s=09)    [LinkedIn](https://www.linkedin.com/in/anurag-bhattacharjee-65a487275/)    [Email](bhattacharjeeanurag3@gmail.com)
 
 ### My Technology Stack
 
