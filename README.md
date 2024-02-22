@@ -9,8 +9,10 @@ Simple dude, very interested in technology! Eager to learn the different kinds o
 - Currently doing BTech in Computer Science from Guru Nanak Institute of Technology (GNIT)
 
   
-### Connect with Me
-[X (Twitter)](https://x.com/hammydoestweet8?t=qiVlo3v_CsBCl-EUGVRnjg&s=09)    [LinkedIn](https://www.linkedin.com/in/anurag-bhattacharjee-65a487275/)    [Email](bhattacharjeeanurag3@gmail.com)
+### Social Media to find me
+[X (Twitter)](https://x.com/hammydoestweet8?t=qiVlo3v_CsBCl-EUGVRnjg&s=09)    My Twitter Account
+[LinkedIn](https://www.linkedin.com/in/anurag-bhattacharjee-65a487275/)    My LinkedIn Account
+[Email](bhattacharjeeanurag3@gmail.com)
 
 ### My Technology Stack
 
