@@ -1,20 +1,22 @@
-### Hi there 👋 its Anurag
+# Hi there 👋 its Anurag
 
 Welcome to my GitHub Profile!
 
 Simple dude, very interested in technology! Eager to learn the different kinds of things and love to apply them. Very keen to make Design Based approach and weak in ASSEMBLY LoL. Web Development is my primary for now and occassionally looking or Data Analysis.
 
-### About Me
+## About Me
 - Did classes 10 and 12 from St. Xavier's Institution (SXI)
 - Currently doing BTech in Computer Science from Guru Nanak Institute of Technology (GNIT)
 
   
-### Social Media to find me
+## Social Media to find me
 [X (Twitter)](https://x.com/hammydoestweet8?t=qiVlo3v_CsBCl-EUGVRnjg&s=09)    My Twitter Account
+
 [LinkedIn](https://www.linkedin.com/in/anurag-bhattacharjee-65a487275/)    My LinkedIn Account
+
 [Email](bhattacharjeeanurag3@gmail.com)
 
-### My Technology Stack
+## My Technology Stack
 
 Programming Languages:
 - C
