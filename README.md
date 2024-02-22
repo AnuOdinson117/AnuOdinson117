@@ -14,6 +14,8 @@ Simple dude, very interested in technology! Eager to learn the different kinds o
 
 [LinkedIn](https://www.linkedin.com/in/anurag-bhattacharjee-65a487275/)    My LinkedIn Account
 
+[Instagram](https://www.instagram.com/_.hamsen._/)    My Instagram Account
+
 [Email](bhattacharjeeanurag3@gmail.com)
 
 ## My Technology Stack
