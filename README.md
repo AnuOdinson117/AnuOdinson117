@@ -36,10 +36,10 @@ Data Analytics
 - Tools: PowerBI Tableau
 - Language: SQL Python
 
-### Lets Connect
-I'm always open to collaboration, learning, and sharing knowledge. Feel free to reach out to me through my social media profiles or drop me a message here on GitHub. Let's learn and grow together in the fascinating world of technology!
+## Lets Connect
+I'm always open to collaboration, learning, and sharing knowledge. Feel free to reach out to me through my social media profiles or drop me a message here on GitHub.
 
-Keep coding, stay secure, and embrace the possibilities of the digital realm!
+Happy Programming Everyone!
 
 <!--
 **GitHam777/GitHam777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
