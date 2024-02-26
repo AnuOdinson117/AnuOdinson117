@@ -22,10 +22,7 @@ Simple dude, very interested in technology! Eager to learn the different kinds o
  
 - Programming Languages: C , C++ , Java , JavaScript , Python , Typescript
 
-- Web Development:
-(Frontend: HTML-CSS-JS | React | Tailwind)
-(Backend: NodeJS+ExpressJS | Django)
-(Databases: MongoDB | MySQL)
+- Web Development: (Frontend: HTML-CSS-JS | React | Tailwind) --- (Backend: NodeJS+ExpressJS | Django) --- (Databases: MongoDB | MySQL)
 
 - App Development: Flutter + Firebase
 
