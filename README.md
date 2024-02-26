@@ -19,22 +19,17 @@ Simple dude, very interested in technology! Eager to learn the different kinds o
 [Email](bhattacharjeeanurag3@gmail.com)
 
 ## My Technology Stack
+ 
+- Programming Languages: C , C++ , Java , JavaScript , Python , Typescript
 
-Programming Languages:
-- C
-- C++
-- Java
-- Javascript
-- Golang
+- Web Development:
+(Frontend: HTML-CSS-JS | React | Tailwind)
+(Backend: NodeJS+ExpressJS | Django)
+(Databases: MongoDB | MySQL)
 
-Web Development
-- Frontend: HTML CSS JavaScript Tailwind React Angular
-- Backend: NodeJS ExpressJS Spring Springboot
-- Databases: MongoDB MySQL
+- App Development: Flutter + Firebase
 
-Data Analytics
-- Tools: PowerBI Tableau
-- Language: SQL Python
+- Version Control: Git + Github
 
 ## Lets Connect
 I'm always open to collaboration, learning, and sharing knowledge. Feel free to reach out to me through my social media profiles or drop me a message here on GitHub.
