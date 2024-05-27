@@ -4,18 +4,10 @@ Welcome to my GitHub Profile!
 
 Simple dude, very interested in technology! Eager to learn the different kinds of things and love to apply them. Very keen to make Design Based approach and weak in ASSEMBLY LoL. 
 
-## About Me
-- Did classes 10 and 12 from St. Xavier's Institution (SXI)
-- Currently doing BTech in Computer Science from Guru Nanak Institute of Technology (GNIT)
-
-  
 ## Social Media to find me
-[X (Twitter)](https://x.com/hammydoestweet8?t=qiVlo3v_CsBCl-EUGVRnjg&s=09)    My Twitter Account
-
-[LinkedIn](https://www.linkedin.com/in/anurag-bhattacharjee-65a487275/)    My LinkedIn Account
-
-[Instagram](https://www.instagram.com/_.hamsen._/)    My Instagram Account
-
+[X(Twitter)](https://x.com/hammydoestweet8?t=qiVlo3v_CsBCl-EUGVRnjg&s=09)
+[LinkedIn](https://www.linkedin.com/in/anurag-bhattacharjee-65a487275/)
+[Instagram](https://www.instagram.com/_.hamsen._/)
 [Email](bhattacharjeeanurag3@gmail.com)
 
 ## My Technology Stack
