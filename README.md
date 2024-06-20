@@ -7,35 +7,35 @@ Simple dude, very interested in technology! Eager to learn the different kinds o
 ## 🛠️ My Tech Stack
 
 ### Programming Languages
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=F34B7D)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=B07219)
-![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=00B4AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![C](https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=c%2B%2B&logoColor=F34B7D)
+![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=B07219)
+![Dart](https://img.shields.io/badge/Dart-121212?style=for-the-badge&logo=dart&logoColor=00B4AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript)
 
 
 ### Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=tailwindcss)
-![ShadCN](https://img.shields.io/badge/ShadCN-000?style=for-the-badge&logo=shadcnui)
+![HTML](https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-121212?style=for-the-badge&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=tailwindcss)
+![ShadCN](https://img.shields.io/badge/ShadCN-121212?style=for-the-badge&logo=shadcnui)
 
-![NodeJS](https://img.shields.io/badge/Node.JS-000?style=for-the-badge&logo=node.js)
-![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Appwrite](https://img.shields.io/badge/Appwrite-000?style=for-the-badge&logo=appwrite)
-![Next.JS](https://img.shields.io/badge/Next.JS-000?style=for-the-badge&logo=next.js)
+![NodeJS](https://img.shields.io/badge/Node.JS-121212?style=for-the-badge&logo=node.js)
+![NPM](https://img.shields.io/badge/NPM-121212?style=for-the-badge&logo=npm)
+![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react)
+![Express](https://img.shields.io/badge/Express-121212?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb)
+![Appwrite](https://img.shields.io/badge/Appwrite-121212?style=for-the-badge&logo=appwrite)
+![Next.JS](https://img.shields.io/badge/Next.JS-121212?style=for-the-badge&logo=next.js)
 
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=095E20)
+![Django](https://img.shields.io/badge/Django-121212?style=for-the-badge&logo=django&logoColor=095E20)
 
 ### App Development Technologies
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=cyan)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow)
+![Flutter](https://img.shields.io/badge/Flutter-121212?style=for-the-badge&logo=flutter&logoColor=cyan)
+![Firebase](https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=yellow)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuOdinson117&show_icons=true&theme=radical)
