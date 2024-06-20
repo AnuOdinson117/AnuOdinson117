@@ -20,22 +20,26 @@ Simple dude, very interested in technology! Eager to learn the different kinds o
 ![HTML](https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-121212?style=for-the-badge&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-121212?style=for-the-badge&logo=vite)
+![Tailwind](https://img.shields.io/badge/Tailwind-121212?style=for-the-badge&logo=tailwindcss)
 ![ShadCN](https://img.shields.io/badge/ShadCN-121212?style=for-the-badge&logo=shadcnui)
 
 ![NodeJS](https://img.shields.io/badge/Node.JS-121212?style=for-the-badge&logo=node.js)
 ![NPM](https://img.shields.io/badge/NPM-121212?style=for-the-badge&logo=npm)
-![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react)
 ![Express](https://img.shields.io/badge/Express-121212?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-121212?style=for-the-badge&logo=mongoose&logoColor=brown)
+![Postman](https://img.shields.io/badge/Postman-121212?style=for-the-badge&logo=postman)
 ![Appwrite](https://img.shields.io/badge/Appwrite-121212?style=for-the-badge&logo=appwrite)
-![Next.JS](https://img.shields.io/badge/Next.JS-121212?style=for-the-badge&logo=next.js)
 
+![Next.JS](https://img.shields.io/badge/Next.JS-121212?style=for-the-badge&logo=next.js)
 ![Django](https://img.shields.io/badge/Django-121212?style=for-the-badge&logo=django&logoColor=095E20)
 
 ### App Development Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-121212?style=for-the-badge&logo=flutter&logoColor=cyan)
 ![Firebase](https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=yellow)
+![Android](https://img.shields.io/badge/Android-121212?style=for-the-badge&logo=android)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuOdinson117&show_icons=true&theme=radical)
@@ -45,7 +49,6 @@ Thank you for visiting my profile! Feel free to explore my repositories and get 
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/anurag-bhattacharjee-65a487275)
-[![Twitter](https://img.shields.io/badge/Twitter-121212?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hammydoestweet8?t=qiVlo3v_CsBCl-EUGVRnjg&s=09)
 [![Instagram](https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.hamsen._)
 
 <!--
