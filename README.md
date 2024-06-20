@@ -16,7 +16,7 @@ Simple dude, very interested in technology! Eager to learn the different kinds o
 ![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript)
 
 
-### Web Technologies
+### Web Development Technologies
 ![HTML](https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-121212?style=for-the-badge&logo=bootstrap)
@@ -40,6 +40,14 @@ Simple dude, very interested in technology! Eager to learn the different kinds o
 ![Flutter](https://img.shields.io/badge/Flutter-121212?style=for-the-badge&logo=flutter&logoColor=cyan)
 ![Firebase](https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=yellow)
 ![Android](https://img.shields.io/badge/Android-121212?style=for-the-badge&logo=android)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/Github-121212?style=for-the-badge&logo=github)
+
+### Code Writing and Editing Frameworks
+![VSCode](https://img.shields.io/badge/VSCode-121212?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![Android Studio](https://img.shields.io/badge/android.studio-121212?style=for-the-badge&logo=androidstudio)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuOdinson117&show_icons=true&theme=radical)
