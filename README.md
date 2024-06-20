@@ -50,7 +50,7 @@ Simple dude, very interested in technology! Eager to learn the different kinds o
 ![Android Studio](https://img.shields.io/badge/android.studio-121212?style=for-the-badge&logo=androidstudio)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuOdinson117&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuOdinson117&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuOdinson117&layout=compact&theme=radical)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
