@@ -52,8 +52,8 @@ Simple dude, very interested in technology! Eager to learn the different kinds o
 ![Codechef](https://img.shields.io/badge/codechef-000?style=for-the-badge&logo=codechef)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuOdinson117&show_icons=true&hide=&count_private=true&title_color=b16cff&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuOdinson117&layout=compact&theme=radical&title_color=b16cff&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true)
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=AnuOdinson117&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuOdinson117&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
 
